@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 5050;
 
 const WS_URL = "wss://mynygwais.hytsocesk.com/websocket";
-const accessToken = "1-09e52bfde83ec1be14e2e87ec51d9c30";
+const accessToken = "1-46dffeb4e5a6281348cc4acb239a7f81";
 const ID = "binhtool90";
 
 let ws;
